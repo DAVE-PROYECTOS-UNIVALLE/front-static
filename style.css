@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; justify-content: center; padding: 50px; }
+.container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); width: 350px; }
+h1 { color: #232f3e; text-align: center; } /* Colores AWS */
+.input-group { display: flex; gap: 5px; }
+input { flex: 1; padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+button { padding: 8px 15px; background: #ff9900; border: none; color: white; border-radius: 4px; cursor: pointer; }
+button:hover { background: #ec912d; }
+ul { list-style: none; padding: 0; margin-top: 20px; }
+li { background: #eee; margin-bottom: 5px; padding: 10px; border-radius: 4px; display: flex; justify-content: space-between; }
